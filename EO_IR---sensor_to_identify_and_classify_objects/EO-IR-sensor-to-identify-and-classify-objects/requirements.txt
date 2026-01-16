@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit
+opencv-python
+pandas
+openpyxl
+ultralytics
+numpy
+playsound==1.2.2
